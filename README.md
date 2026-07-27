@@ -248,20 +248,6 @@ Le Dashboard affiche :
 * Profil utilisateur avec photo
 
 ---
-
-# 🛠️ Stack technique
-
-* Frontend : React
-* Tailwind CSS
-* Vite
-* IA : OpenAI / Dify
-* Base de données : Supabase
-* Authentification : Supabase Auth
-* Emails : Resend
-* Déploiement : Vercel
-
----
-
 # ⚖️ Éthique
 
 SmartRecrut respecte plusieurs principes :
