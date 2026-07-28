@@ -1,1 +1,2 @@
 https://smartrecrut-ai-recru-95g0.bolt.host
+https://smartrecruit-main.vercel.app/
