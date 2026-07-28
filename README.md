@@ -31,8 +31,7 @@ L'objectif est de réduire considérablement le temps de recrutement tout en am�
 
 
 ## 🚀 Démo en ligne
-👉 **[https://smart-recrut.vercel.app](https://smart-recrut.vercel.app)**
-*(⚠️ Remplacez cette URL par votre véritable URL Vercel une fois le déploiement finalisé)*
+https://smartrecruit-main.vercel.app/
 
 ## 🛠️ Stack technique
 - **Frontend** : React + Tailwind CSS + Vite
